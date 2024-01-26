@@ -1,5 +1,3 @@
-# Password-generator-JS
-
 # Password Generator App
 
 A simple JavaScript-based application that generates secure passwords based on user-defined criteria.
@@ -8,7 +6,7 @@ A simple JavaScript-based application that generates secure passwords based on u
 
 - [Features](#features)
 - [Usage](#usage)
-- - [Demo](#demo)
+- [Demo](#demo)
 - [Contributing](#contributing)
 
 ## Features
